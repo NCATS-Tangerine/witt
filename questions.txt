@@ -1,0 +1,777 @@
+Is Hirschsprung disease a mendelian or a multifactorial disorder?
+What is the aim of the Human Chromosome-centric Proteome Project (C-HPP)?
+What is the effect of ivabradine in heart failure after myocardial infarction?
+What is the effect of TRH on myocardial contractility?
+What are the outcomes of Renal sympathetic denervation?
+What is evaluated using the EORTC QLQ – INFO25 questionnaire?
+What is the association of estrogen replacement therapy and intracranial meningioma risk?
+What is known about the effect of acupuncture in smoking cessation ?
+What is clathrin?
+What are the main results of PRKAR1A Knockdown?
+What is the role of extracellular signal-related kinases 1 and 2 (ERK1/2) proteins in craniosynostosis?
+What is the association between personality trait of neuroticism and risk for Alzheimer's disease?
+What is the mode of action of everolimus?
+Which pathological condition of the heart is known as hypertrophic cardiomyopathy (HCM)?
+What is the function of the viral KP4 protein?
+What is the principle of the PAR-CLIP methodology?
+How is spastic diplegia diagnosed?
+Is there a genetic component for happiness?
+What kind of affinity purification would you use in order to isolate soluble lysosomal proteins?
+What is the effect of Chk2 splice variants on wild-type Chk2 kinase activity?
+What is Tarlov Cyst?
+What is the extracellular core "matrisome"?
+What is Genomicus?
+What is the COUGER tool?
+What is known about clinical efficacy of ceftriaxone for treatment of amyotrophic lateral sclerosis?
+What is the relationship between TailorX and Oncotype?
+Which is the main function of "RNA sponges"?
+How do histone methyltransferases cause histone modification?
+What is the function of 6SRNA in bacteria?
+What is a Caveolae?
+How could we infer functional associations from gene fusion events?
+What is the Genomic Regions Enrichment of Annotations Tool (GREAT)?
+What is the role of RhoA in bladder cancer?
+What is the prognostic role of thyroid hormone in patients with heart failure?
+For what is Protein A from Staphylococcus aureus used in biochemistry?
+What is the suggested therapy for Mycobacterium avium infection?
+What is the treatment of acute pericarditis?
+What is the clinical value of MammaPrint?
+What systems have been developed for the numbering of antibody residues?
+What is enCHIP?
+What are the functions of sorting nexin 27?
+What clinical use aptamers may have?
+What is the mechanism of action of Nalmefene?
+What is the role of invadopodia in EMT?
+What are cancer driver genes?
+What is a mitochondrial nucleoid?
+What is the treatment of amiodarone-induced thyrotoxicosis?
+How does exercise affect thyroid hormone receptors expression in the heart?
+What is the effect of ivabradine in heart failure with preserved ejection fraction?
+What is the mode of action of bedaquiline?
+Does helicobacter pylori infection increase risk for ischemic stroke?
+Describe the mechanism of action of the LINX system for treatment of gastroesophageal reflux disease.
+What is the treatment of subacute thyroiditis?
+What are the effects of BMAL1 deficiency?
+Where is the protein CLIC1 localized?
+Describe the usefulness of the SPIKE database in human signaling pathways
+What is the Barr body?
+What is the biological role of expansins in fungi?
+What is known about depression in acoustic neuroma patients?
+What is the mode of action of Hsp90 inhibitors?
+What is HbVar?
+Can DMSO as an additive improve proteomic analysis results?
+Why do we use "N-terminal proteomics"?
+Describe the mechanism of action of drisapersen
+How does ranolazine affect calcium handling in the heart
+Which is the primary distinction between the Reverse Warburg effect and the conventional Warburg effect?
+What is the role of per genes in circadian rhythm control?
+What is the definition of autophagy?
+Between which types of DNA bases are mutational biases introduced due to directional mutation pressure?
+What is the role of AMPK in diabetic cardiomyopathy?
+What is the oldest human sample analysed by paleontology proteomics?
+What is membrane scission?
+What is the mechanism of DNA replication termination in vertebrates?
+What is the association between moon cycle and rupture risk  of intracranial aneurysms?
+How homoplasy affects phylogenetic reconstruction?
+What is known about the association between the use of selective serotonin reuptake inhibitors during pregnancy and risk for autism in offspring?
+Why are insulators necessary in gene therapy vectors?
+What is the role of SERCA in diabetic cardiomyopathy?
+What is the methodological principle of ChIA-PET?
+What is the association between h-index and academic rank in academic neurosurgery?
+What is known about the value of mindfulness interventions in prostate cancer patients?
+What is known about prostate cancer screening in the UK ?
+The secreted frizzled-related protein 3 (sFPR3) is altered in human cancers. Are its level found to increase or to decrease?
+Albumin depletion is a common first step for proteomic analysis of CSF fluid. What is the advantage and disadvantage of this procedure?
+How are lincRNA affecting the regulation of gene expression?
+What is known about thalidomide therapy and survival of glioblastoma patients?
+Which is the definition of pyknons in DNA?
+What is the role of deadenylases in the cell?
+How could U1 small nuclear RNA be used in therapeutics?
+What is the influence of patent expiry on  ACE inhibitor prescribing.
+How effective is the dentritic cells treatment on cancer?
+What is known about the reimbursement of Viagra
+Why is lock mass used in Orbitrap measurements?
+How does trimetazidine affect intracellular kinase signaling in the heart?
+What was the aim of the COSS (Carotid Occlusion Surgery Study) clinical trial?
+What are the clinical trial outcomes of metformin use in polycystic ovary disease?
+What is the association between Generalized anxiety disorder and mortality risk?
+Which treatment leads to an increase in neutrophil counts in severe congenital neutropenia?
+What is the effect of resveratrol on mTOR activity?
+What is the role of AMPK kinase in myocardial remodeling after myocardial infarction
+What is the mechanism of action of solanezumab?
+Which phenomenon is known as the "calcium paradox" in the isolated perfused heart?
+How do Hsp70 and Hsp110 affect mRNA stability?
+What is Prudent Diet?
+What is the role of necroptosis in cancer therapy?
+What is FINDbase?
+Why does the prodrug amifostine (ethyol) create hypoxia?
+What is considered a reliable technique for the definitive cytogenetic diagnosis of Fanconi anemia homozygosity?
+What is the role of lysine-specific demethylase 1 (LSD1) in hematopoiesis?
+How are induced pluripotent stem cells used in the study and treatment of cardiovascular diseases?
+How is the sequence variability defined in antibodies?
+What is TFBSshape?
+What is the main characteristic of Amyotrophic Lateral Sclerosis?
+Which is the mechanism used for synthesis of a highly functional N-truncated dystrophin isoform that attenuates dystrophinopathy?
+What constitutes an increased risk for individuals with Fanconi anemia?
+what is the role of IGF-1 in cardiac regeneration after myocardial infarction?
+What is known about prostate cancer screening in the UK
+what is the role of TGFbeta in cardiac regeneration after myocardial injury?
+What is the function of the mammalian gene Irg1?
+What is the systemic nickel allergy syndrome?
+What is the role of ELMO1 gene in cell migration?
+What is the biological role of K-48 linked protein ubiquitination?
+What is known about Vancomycin dosing in neonates?
+Which histone modifications have been associated to alternative splicing?
+What is a P-body (processing body)?
+What is the mechanism of action of decitabine?
+What are the main characteristics/symptoms of the "Brugada" syndrome
+How does thyroid hormone regulate mitochondrial biogenesis in the myocardium?
+What is the genomic structure of the FAA (FANCA) gene?
+What is Snord116?
+Which is the genetic cause for the development of Fanconi anemia complementation group D1?
+What are the most frequent non-canonical sequence motifs at the donor and acceptor splice sites in vertebrates?
+Why does cranberry juice help combat urinary tract infections?
+What is the functionality of the Triplex R/bioconductor package?
+What is transvection?
+What is the role of probiotics in gastrointestinal disease?
+What species is associated with Tetrodotoxin?
+How do HBS1L-MYB intergenic variants regulate fetal hemoglobin?
+What is the genetic basis of propionic acidemia?
+What is the risk in G-CSF treatment for severe congenital neutropenia?
+Which is the treatment strategy followed in spinocerebellar ataxia type 3 for CAG removal?
+Where is the angiogenin binding element  located?
+Which event results in the acetylation of S6K1?
+What is protein carbamylation?
+What is the role of Inn1 in cytokinesis?
+What is the definition of minimal absent words?
+What is the common feature in congenital central hypoventilation and Mowat-Wilson syndromes?
+What symptoms characterize the Muenke syndrome?
+How does dabigatran therapy affect aPTT in patients with atrial fibrillation?
+What pharmacological and non-pharmacological interventions can be considered as prophylactic therapies in Cluster Headache patients?
+How does phospholamban affect the biological activity of the calcium ATPase SERCA?
+What is known about the Digit Ratio (2D:4D) cancer?
+What do studies show about the effect of Induced hypothermia in premature babies?
+Describe what is the advantage of using a stain free protein gel in a Western Blot experiment?
+What states the second parity rule (PR2)?
+Explain the concept proteostasis.
+What is the association between adiponectin and migraine?
+Which phenomenon is described as oncogene addiction?
+What is the scope of the OMIA database?
+What is the effect of methotrexate in treating uveitis due to juvenile idiopathic arthritis ?
+What is HOCOMOCO?
+What is the result of the interaction between TSC1 and PLK1?
+What are the characteristics of the "Universal Proteomics Standard 2" (UPS2)?
+What type of arrhythmia is known as bidirectional ventricular tachycardia (BDVT)?
+Where does TORC1 sequester during heat stress?
+What is the usefulness of ultraconserved elements in phylogeny?
+Which are the characteristics of the Meier-Gorlin syndrome?
+What is the role of Hsp90 inhibition in cancer therapy?
+What is the mechanism of action of anticoagulant medication Dabigatran?
+What is the function of the yeast protein Aft1?
+What is the role of mismatched uracil glycosylase (Mug) in DNA repair?
+What is the effect of Allopurinol on asphyxia in neonates?
+When is the protein NFL a biomarker?
+How does thyroid  hormone  regulate  SR-Ca2+ ATPase  (SERCA) protein in the heart?
+Which is the most well-accepted method for Down syndrome non-invasive prenatal diagnosis?
+Elaborate on the association between Genomic Regulatory Blocks (GRBs) and target genes
+Which therapeutic interventions for sarcopenia have been  applied
+What is the genetic basis of progeria?
+Describe July Effect.
+Which are the main functions of the human HuR (ELAVL1) protein in fibroblasts?
+What is the role played by mTOR in hypertrophic response and heart failure?
+What is the mechanism of action of DNA topoisomerase II inhibitors?
+what is the role of FGF-2 in cardiac regeneration after myocardial infarction?
+What is Tn-seq?
+Which is the most common genetic lesion among patients with Joubert Syndrome and a cerebello-oculo-renal phenotype?
+How is CBX1/M31 related to position-effect variegation?
+Describe the mechanism of action of aliskiren.
+What is the role of photodynamic therapy for meningioma treatment?
+What is the Arnold-Chiari syndrome?
+What is the biological role of SERCA2 SUMOylation in cardiac physiology and pathophysiology, such as in heart failure?
+What is known about MER41 repeat sequences?
+How functional connectivity of the default mode network changes in patients with disorders of consciousness?
+What is the pyroptotic pathway?
+What is the function of the AtxA pleiotropic regulator?
+What is evaluated with the Hydrocephalus Outcome Questionnaire?
+What is known about maternal smoking and brain tumor risk?
+Which metazaon species or taxa are known to lack selenoproteins
+How are CpG island shores defined?
+What is the role of edaravone in traumatic brain injury?
+what is the role of erythropoietin in cardiac regeneration after myocardial infarction?
+What are the hallmarks of congestive heart failure?
+What is the reason for the narcolepsy cases developed after H1N1 influenza vaccination?
+What is the mechanism of action of ocrelizumab for treatment of multiple sclerosis?
+What are viral vectors used for in optogenetics?
+Why graphics processing units (GPU) are more suitable for biological tasks than central processing units (CPU)?
+What are the treatments of choice for GIST (gastrointestinal stromal tumor)?
+What is the function of TALENs?
+Show results of randomised controlled trials for certolizumab pegol.
+What is the role of thyroid hormone receptor alpha1 in insulin secretion?
+Which are the main features of CREST and other ALS-linked proteins?
+What is the relationship between nucleosomes and exons?
+What is DeepCAGE?
+What are the Topological Domains (TADs)?
+What is the vibrational theory of olfaction?
+What is the application of the ASSET algorithm in C.elegans?
+What are the pyknons?
+Describe what is the usage of the Theatre software tool for genomic analysis.
+How are CRM (cis-regulatory modules) defined?
+What is oprozomib?
+What is the mechanism of microRNA deregulation in carcinogenesis?
+What is the role of venous angioplasty in multiple sclerosis?
+Which type of cell death is known as anoikis?
+What is Piebaldism?
+What is the mechanism of action of APOBEC3G cytidine deaminase to inhibit HIV-1 replication?
+What is ISMARA?
+Where does TDP43 localize in ALS neurons?
+What is the basis of the methodology of "functional class scoring" (FCS) for the analysis of gene expression data?
+What is the Timothy syndrome?
+Which is the underlying mechanism for exon skipping used to treat Duchenne muscular dystrophy?
+What is the advantage of using long nano columns in proteomics?
+What is the treatment of Riedel disease (thyroiditis)?
+What is the evolutionary process described by the "Muller's ratchet" model?
+What is the association between proBNP serum concentrations and stroke outcomes?
+What is the effect that EZH2 has on chromatin?
+What are the generic versions of Viagra
+How could iPSCs be used for the treatment of diabetes?
+What is Sotos syndrome?
+What is the CRAPome database?
+How is yellow fever virus transmitted?
+How does TNF affect thyroid hormone receptors?
+What is the effect of dovitinib on the cell cycle?
+What is the involvement of PDGFRB in metastatic medulloblastoma?
+What is known as Calcium Induced Calcium Release (CICR) and its role in cardiomyocyte contractility?
+What is the action of molindone?
+What is the function of the enzymes known as dual specificity phoshpatases (DUSPs)?
+How are human accelerated regions (HAR) defined?
+How are GRBs (Genomic Regulatory Blocks) defined?
+What is STARR-seq?
+What is the effect of ROS on cyclin B1?
+Provide examples of how molecular transporters contribute to multi-drug resistance in bacteria.
+What is the minimal genome build?
+Describe Malgaigne fracture.
+Define marine metaproteomics
+What is GRO-seq?
+What is the role of Caenorhabditis elegans Heterochromatin protein 1 (HPL-2) in development?
+What are the pregnancy outcomes in rheumatoid arthritis?
+What is DNAshape?
+How are thyroid hormones involved in the development of diabetic cardiomyopathy?
+How histone deacetylation causes transcriptional gene silencing?
+What is the effect of SAHA treatment in Huntington's disease?
+What is known about the role of mHealth in the prevention of disease?
+How does ranolazine affect kinase signaling activation in the heart?
+Which depression rating scales were shown to have acceptable psychometric properties for screening of poststroke depression?
+What is the mechanism of action of  trichostatin A (TSA) as an antitumoral agent?
+What is known as the cause of subacute thyroiditis?
+Why can't humans synthesize Neu5Gc (N-Glycolylneuraminic acid)?
+Elaborate on the TREAT-NMD initiative for DMD patients
+What are the characteristics of Christianson syndrome?
+What heterotachy states about molecular evolutionary processes?
+What is known about depression in caregivers of brain tumor patients?
+What are the effects of homozygosity of EDNRB mutations in addition to Hirschsprung disease?
+Which is the major function of sororin?
+What are piggyBAC transposons?
+what is the role of GATA-4 in regeneration of the heart after myocardial infarction?
+How does adrenergic signaling affect thyroid hormone receptors?
+Which kinase is regulating stress granule biogenesis?
+What is the association between cell phone use and glioblastoma?
+What are the main characteristics of Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)?
+what is the role of prostaglandins in cardiac regenaration after myocardial infarction?
+What is the general function of H3K79 methylation?
+Where can we find the protein dermcidin?
+Describe Mozart effect.
+What is the purpose of the Tokuhashi scoring system?
+By which mechanism MutT proteins act against DNA lesions in bacteria?
+What is the role of anhedonia in coronary disease patients?
+What is  the clinical value of naltrexone in Parkinson's disease patients?
+What is the efficacy of oxaliplatin monotherapy in the management of colorectal cancer?
+Which is the molecular function of the protein CCDC40?
+What is the role of  chromomethylases in plants?
+What is Cerebral Cavernous Malformation?
+How does Rif1 regulate DNA replication?
+What is known about food intolerance and gluten ?
+What is known about the effectiveness of electronic food diaries ?
+Which biological process in known as Endoplasmic Reticulum-Associated Protein Degradation (ERAD)?
+What is known about the economic cost of urinary incontinence?
+What is known about diseases associated with mutations in the CHCHD10 gene?
+Give examples of next-generation sequencing applications in mutation screening?
+What is BioASQ?
+What is the role of the histidine rich calcium binding protein (HRC) in cardiomyopathy?
+What is the effect of amitriptyline in the mdx mouse model of Duchenne muscular dystrophy?
+What is known about potential implication of thyroid hormone receptors in arterial hypertension?
+What is the mechanism of action of abiraterone?
+Do ephrins play a role in brain cancer?
+What is the definition and the biological role of epithelial-mesenchymal transition (EMT)
+What is smFISH?
+What is the correlation between SPARC expression and growth inhibition in human cancer?
+How does dronedarone affect thyroid hormone signaling in the heart?
+What are the functions of the ESCRT machinery?
+What is the role of TRH in hypertension?
+What is the role of NETs in systemic lupus erythematosus?
+What is known as Von Hippel–Lindau disease or syndrome?
+Which mechanisms underlie adaptive mutagenesis (stationary-phase mutagenesis) in Bacillus subtilis?
+Describe the usefulness of Macrostomum lignano in ion channel and stem cell research
+What is the INSURE procedure in premature babies.
+How thyrocyte destruction is induced in autoimmune thyroiditis?
+What causes erucism?
+How does Hst5 (histatin 5) affect infections by Candida glabrata?
+Which is the localization of the RIFIN family of proteins?
+What is the suggested clinical management of Fanconi anemia?
+Describe Hot water reflex epilepsy.
+Which is the mechanism used by bacteria to induce tumors in Arabidopsis?
+What is the idea behind the fractal globule that has been proposed as a model of chromatin conformation in the nucleus of a cell?
+What is SHAPE-Seq?
+Describe the involvement of conserved noncoding sequences in the regulation of Hox genes.
+Give an overview of visualizing genomes with oligopaint FISH probes.
+What is Targeted Chromatin Capture (T2C)?
+What are the reported adverse effects of topical minoxidil?
+Describe Heyde syndrome.
+What is the main biological function of the CRISPR-CAS9 genome editing system?
+What is 2d 4d ratio in athletes.
+What is the association between moon cycle and rupture risk of intracranial aneurysms?
+What is the role of brain natriuretic peptide in traumatic brain injury patients ?
+What is the association between NT-proBNP and cognitive function?
+Is there any evidence of dysregulated long non coding RNAs and Alzheimer's disease?
+What is known about type D personality trait in cancer patients?
+what is the role of MEF-2 in cardiomyocyte differentiation?
+What is the the Menzerath-Altmann law?
+Describe the known functions for the prothymosin alpha c-terminal peptide?
+What is the role of the Ada O6-alkylguanine alkyltransferase in bacteria?
+Super-SILAC is a method used in quantitative proteomics. What is the super-SILAC mix? (SILAC: Stable Isotopic labelling by aminoacids in cell culture)
+What is known about efficacy of the high dose intravenous ascorbate in the treatment of cancer patients?
+What is ChiRP-seq (Chromatin Isolation by RNA Purification sequencing)?
+What is the use of MammaPrint and Oncotype DX?
+How can DUF families be deciphered?
+What is the treatment of choice  for gastric lymphoma?
+What are the applications of a Dermaroller ?
+What is the mechanism of action of eprotirome?
+What is the role of music therapy in coma patients.
+What is GDF10?
+Other than protein coding potential, what features set apart long non-coding RNAs from protein coding genes?
+How does thyroid hormone affect insulin resistance in the heart?
+Describe mechanism of action of PLX3397 drug.
+Which deficiency is the cause of restless leg syndrome
+Describe clinical presentation of Parkinsonism with dementia of Guadeloupe syndrome.
+Describe armoured brain syndrome.
+What is the role of Thyrotropin Releasing Hormone in the treatment of comatose patients?
+What are the signatures of aggressive periodontitis?
+What is the principle of ATAC (Assay for Transposase-Accessible Chromatin) technique?
+What is the genetic basis of progeria
+What is the "Proteomic ruler"?
+What is the mechanism by which HIV-1-encoded Vif protein allows virus replication?
+What is the mechanism of cementogenesis in pulp regeneration?
+What is the effect of ranolazine in diastolic heart failure?
+Elaborate on the potential efficacy of gemcitabine for the treatment of recurrent, platinum-resistant epithelial ovarian cancer.
+How does Foxa transcription factor exhibits its pioneering function?
+Describe the isolation of transcription factor complexes by in vivo biotinylation tagging and direct binding to streptavidin beads, as applied for the case of the essential hematopoietic transcription factor GATA-1.
+What are the molecular characteristics of the FAA (FANCA) cDNA?
+What are the skeletal muscle satellite cells?
+What is the role of neurogranin in Alzheimer's disease patients?
+What is the association between GERD and gluten ?
+What is the use of emulsion PCR in Next Generation Sequencing?
+What is the role of thyroid hormone in Stem cell differentiation?
+What is the function of the MTH1 enzyme in cancer cells?
+What are the observations regarding telomere integrity and function in Fanconi anemia?
+What is the role of the Tsix gene during X chromosome inactivation?
+What is the advantage of neutral loss detection in phosphoproteomics?
+What is the mechanism of drug-induced gingival overgrowth?
+What is ceritinib?
+What is the main mechanism by which human papillomavirus proteins E6 and E7 contribute to cell transformation?
+What is the implication of histone lysine methylation in medulloblastoma?
+What is the Orco protein in mosquitos?
+What is the role of 5hmC (5 hydroxy-methyl-Cytocine) in differentiation?
+What is CRISPRi?
+How is mTORC1 involved in the regulation of heat stress?
+What is the basic secondary structure of the variable domains of a typical antibody?
+How does long-range epigenetic silencing (LRES) occur?
+Under which conditions does AMPK phosphorylate TSC2?
+What colonoscopy findings have been reported in autism
+What is a disordered protein?
+What is the catalytic mechanism of DNA (cytosine-5) methyltransferases?
+What is the mechanism of action of geldanamycin?
+What is the association between number of pregnancies and rheumatoid arthritis
+How Flaviviridae family of viruses infects vertebrates?
+What was the aim of the HAMLET clinical trial?
+Can we use prodrug amifostine to protect healthy cell during chemotherapy?
+What is the molecular pathogenesis of Spinal Muscular Atrophy?
+Elaborate on the link between conserved noncoding elements (CNEs) and fractality.
+What is known about the Kub5-Hera/RPRD1B interactome?
+What is Desomorphine?
+What is the result of Mff overexpression in mitochondria?
+What is FFI, fatal familial insomnia
+Elaborate on the role of CARMEN in cardiac specification.
+What is the mechanism of action of peginesatide?
+Describe mechanism of action of Eteplirsen?
+What is the importance of Janus Kinases in dermatology?
+What is the role of ZNF335 in microcephaly?
+What are the exonic splice enhancers?
+What are the birth defects associated with Zika-virus infection?
+What is Neisseria adhesin A?
+What causes Scurvy?
+Describe clinical presentation of Ambras syndrome.
+What is MINDY-1?
+What is the benserazide's mechanism of function when co-administered with L-DOPA in patients with Parkinson's Disease?
+What is regioneR?
+What are reactive metabolites?
+What is the "wearing-off" phenomenon in levodopa-treated patients with Parkinson's Disease?
+What are prions?
+What is sQTLseekeR?
+What is Creutzfeldt-Jakob Disease (CJD)?
+Describe what is athelia syndrome?
+What is BioCreative?
+What is Eteplirsen (Exondys 51)?
+What are the SINEUPs?
+What is the mechanism of action of raxibacumab?
+What is the effect of CPEB3 binding to the CPE domain?
+What is the Shelterin complex?
+What are PD-1 inhibitors?
+What do statins do?
+What is Path2PPI?
+What are some of the effects of Zika Virus in infected individuals?
+What is the function of Oseltamivir when administered during flu?
+What is the composition of the gamma-secretase complex?
+What is the role of cohesins at the IFNG locus?
+Describe Wellens' Syndrome.
+What is the function of transthyretin in cerebrospinal fluid?
+Where is the protein slitrk1 localized?
+Describe clinical manifestation of the Harlequin syndrome.
+What is the role of the constitutive photomorphogenesis 9 signalosome (CSN)?
+What is Legg-Calvé-Perthes Disease
+What is promoted by ERAP1-ERAP2 dimerization?
+What is adhesive capsulitis
+Describe the applicability of Semantic MediaWiki in the case of FANTOM5
+What is the mechanism of action of Osimertinib?
+What is Bartter syndrome?
+What is the function of the Indian hedgehog protein in chondrocytes?
+What is the major difference between eucaryotes and procaryotes?
+What is the HSP70-HSP110 disaggregase machinery?
+Describe the usefulness of MiRduplexSVM.
+What kind of analyses are performed with the software tool "unipept"
+What is "Epitranscriptome analysis"?
+What is Bexsero?
+What is the mechanism of action of the biguanide class of diabetes drugs?
+Where is the proteasome located?
+What is clinical presentation of the Gardner-Diamond syndrome?
+Define lncRNA.
+What are Septins?
+What makes telomerase a good drug target?
+What is DENdb?
+What is the doRiNA database?
+What is the connection between furin and hepcidin?
+Which cells express CIDEC protein in humans?
+What is the purpose of the Orpington Prognostic Scale?
+What is the applicability of the MCAST algorithm?
+What is the function of yeast Clr4 on chromatin?
+What is the role of LIMT lncRNA?
+What are Kupffer cells and what is their role?
+What is known about saponins in crops and human consumption?
+What is the role of histone variant H2A.W?
+Which are the main brain dysfunctions caused by hyperbilirubinemia?
+Describe clinical applications of the PIM2 scoring system.
+Which disease is associated with mutations in SLC40A1 gene?
+Describe Exploding head syndrome.
+Describe crowned dens syndrome.
+How are looped genes identified in yest?
+What is the function of the DGAT1 gene product?
+What is the purpose of HaploReg v4?
+What is Mondor's disease?
+How are immediate early genes (IEG) defined?
+What is the role of Laser Interstitial Thermal Therapy in glioma treatment?
+What is known about telomere length shortening and stress?
+What is LedPred?
+What are Degrons?
+What is the role of Lysine 2-hydroxyisobutyrylation?
+What is REVIGO?
+What is the mechanism of action of onartuzumab?
+Which disease(s) are caused by HEX A deficiency?
+What is Behçet's disease
+What is the link between Ctf4 and Chl1 in cohesion establishment?
+How is primary intestinal lymphangiectasia (PIL) caused?
+What are congenital disorders of glycosylation?
+What is the function of the protein tafazzin?
+What are assassin bugs?
+Where are the unipolar brush cells localized?
+What is DECKO?
+What is a mimotope vaccine?
+Describe clinical manifestation of the Mal de debarquement syndrome.
+What is the mechanism of action of verubecestat?
+How are triple negative gliomas characterized?
+What is ectopia lentis?
+What is the function of gasdermin D?
+What is TOPAZ1?
+What is the Genome 10K Project?
+What is MIRA-seq?
+How does Ssu72 mediate gene looping?
+What is the role of peptide aptamers?
+What is the Glasgow Coma score?
+What is the mechanism of action of Pictilisib?
+What are sirtuins?
+What is ChIPpeakAnno?
+Describe ATR-16 syndrome.
+What is the mechanism of action of Romosozumab?
+What is the function of the Mis18 protein?
+What is PANTHER-PSEP?
+What is MPE-seq?
+Describe the mechanism of action of Bezlotoxumab?
+What is the biological function of the SRY circular RNA (circRNA)?
+What is Uhl's anomaly?
+Can aspirin be used in cancer prevention?
+What is the link between TB (Turbeculosis) infection and TNFa inhibition?
+What happens upon disruption of a TAD boundary?
+What is the CEGA catalog?
+What is magnetoreception?
+What is the role of the Ctf4-interacting-peptide or CIP-box?
+What is the function of mTOR?
+Describe the applicability of Basset in the context of deep learning
+What is the role of the MCM2-7 complex?
+Describe the usefulness of CAMUR in The Cancer Genome Atlas (TCGA)
+What is the function of lncRNA?
+What is the function of the exosome?
+What is metaSPAdes?
+What is the function of the dormancy survival regulator (DosR) in Mycobacterium tuberculosis?
+Which are the effects of ALDH2 deficiency?
+What is the role of the positive effector of transcription (pet) in the hepatitis B virus?
+What is the role of Kmt5a in liver?
+What is the difference between ganglion mother cells (GMC) and intermediate neural precursor cells (INP) in Drosophila?
+What is the FIRE (Functional Inference of Regulators of Expression) tool?
+Describe mechanism of action of Napabucasin.
+Which are the properties of mammalian GA-sequences?
+What is the main focus of the CVE R/Bioconductor package?
+What is the origin of XUT transcripts in yeast?
+What is oclacitinib?
+Which yeast nucleosomes are preferentially marked by H2A.Z?
+How are topologically associating domains (TAD) associated with replication timing?
+How are cryptic unstable transcripts (CUTs) defined?
+What is mechanism of action of galunisertib?
+What is the relationship of fyn kinase and tau?
+Which is the transcriptome of RNA polymerase III?
+What is the purpose of the FRAX scale?
+Has Cas9 gene editing the potential to correct inhereted hearing loss?
+How may CTCF mediate splicing?
+What is the function of the TFIIS transcriptional factor (Dst1) in yeast?
+What is the genetic basis of the Delayed Sleep-Phase Syndrome (DSPS)?
+What are jakinibs?
+Describe GARLIC (GWAS-based Prediction Toolkit for Connecting Diseases and Cell Types)
+How does Dst1 knock-out affect transcription in yeast?
+What is the function of yeast TERRA RNAs?
+What is masitinib an inhibitor of?
+What is the function of the H19 (ICR) locus in the human genome?
+What is the mode of action of teriparatide?
+What is the Strelka workflow?
+Describe the Manta algorithm for detection of structural variants
+Describe mechanism of action of Ozanimod.
+Describe swirl sign in intracerebral hemorrhage.
+What is Morgellons disease?
+What is Cellbase?
+What is the asosciation between the eustachian tube and the palatine muscle of the uvula?
+What is the definition of General Regulatory Factors (GRFs)?
+Why is the Fyn kinase considered a promising therapeutic target for Alzheimer's Disease?
+What is the link between TADs and GRBs?
+What is Target Explorer?
+What does the human IVIG treatment for Alzheimer's disease contain?
+What is the mechanism of the auxin-inducible degron system?
+What does VBP15 do to skeletal muscle?
+What is filgotinib?
+What is Q-nexus?
+What is the mechanism of action of Tisagenlecleucel?
+What is LHON, also known as Lebers syndrome?
+What is the ReliableGenome?
+Which is the specificity of deubiquitinase USP25?
+Can a circRNA be translated into protein?
+What is the phenomenon of gene kissing?
+Where do centromeres locate according to the Rabl orientation of eukaryotic nuclei?
+What is the function of STAR elements in yeast telomeres?
+How does parathyroid hormone affect circulating levels of periostin?
+What is MINDY (motif interacting with Ub-containing novel DUB family)?
+What is cebocephaly
+How can network assortativity be applied in the three-dimensional analysis of the genome?
+How is CTCF activated post-translationally?
+What is the HPG pore?
+What is miravirsen?
+What is GenomeVIP?
+What is BBCAnalyzer?
+What is the purpose of the FaceBase consortium?
+What is TCGA2BED?
+Describe nursemaid's elbow injury.
+What is trismus?
+What is mechanism of action of Benralizumab?
+Describe the Match BAM to VCF (MBV) method.
+What is the mechanism of action of Fremanezumab?
+Is trastuzumab associated cardiotoxicity reversible?
+What is the role of nimotuzumab in treatment of pontine glioma?
+Describe annotatr
+What is Blount's disease?
+Describe mechanism of action of Nusinersen.
+Describe King–Kopetzky syndrome.
+What is the 959 Nematode Genomes initiative?
+What is CellMaps?
+Describe SNP2TFBS
+What is SMiLE-seq?
+What is libgapmis?
+Describe JACUSA
+What is the mechanism of action of Tezepelumab?
+What is the association between kidney donation risk of gestational complications?
+Describe the RNA Centric Annotation System (RCAS)
+What is Chronic Wasting Disease (CWD) in deer?
+What does A1C measure?
+What is craniosynostosis?
+Describe Click-PEGylation
+A SLEDAI score is associated with Systemic Lupus Erythematosus. What is a SLEDAI score?
+What is the aim of the 4D nucleome project?
+When is 16S rRNA Gene Sequencing used?
+What is the association of circular RNA to breast cancer?
+Describe RIblast
+What is Alzheimers disease resilience?
+Describe Achenbach’s syndrome.
+What is host induced gene silencing?
+What is maternal spindle transfer?
+What is the role of tankyrases in response to Double Strand Breaks (DSBs)?
+How do circRNAs relate to tumorigenesis?
+What is the role of the blood-brain barrier?
+What is PARP inhibitor (PARPi) resistance?
+What are pQTLs?
+What is Dysphoric Milk Ejection Reflex?
+What is the "protein inference problem"?
+What is the link between lithium use during pregnancy and Ebstein anomaly?
+What does the Ribosome-bound Quality Control complex do?
+Describe mechanism of action of Romosozumab.
+Which proteins are regulated by Nrf2?
+What is the purpose of the Tabix tool?
+What is MULTOVL?
+How is Hsd17b1 associated with endometriosis?
+What is INCB3619?
+What is crenezumab?
+Describe Vanishing lung syndrome.
+What is calciphylaxis
+What is the alternative lengthening of telomeres?
+Which organ express and secretes the hormone FGF21?
+What is the biological role of Neddylation?
+What is break induced replication?
+What is a fibrocyte?
+What is the aim of the PhenCode database?
+What is the basis of the Sp3 procedure used in proteomics?
+What is "enhancer hijacking"?
+What disease is tinea ?
+How are deletion breakpoints defined?
+How is the nuclear localization of lncRNA mediated?
+What is ATAC-seq?
+What is the TALE-iD method used for?
+What is Paget's Disease?
+What is the function of penicillinase, also known as beta lactamase?
+What is caused by the ectopic expression of CTCF?
+What is the dardarin protein?
+What is myelin?
+What is Dupuytren's contracture?
+What phenotype is associated with the V60L mutation in the human MC1R gene?
+What is the aim of  perfoming a "cycloheximide chase assay"?
+What is Mendelian randomization?
+What is hemolacria?
+What is the 3D genome browser?
+Are gut proteobacteria associated with inflammatory disease?
+Describe genomiser
+What is TPMCalculator?
+Describe clinical presentation of Escobar syndrome.
+What is small-activating RNA?
+What is the mechanism of action of Ivosidenib?
+Which is the basis of the ATAC-Seq protocol?
+What is vcfanno?
+What is the association of Disease-Associated STRs (daSTRs) with domain boundaries?
+What is the link between ultraconserved elements and three-dimensional mammalian genome organization?
+What are the "Ohnologs"?
+What is TissueEnrich?
+Describe OligoSTORM
+Describe the mechanism of action of ibalizumab.
+Describe information obtained by immunophenotyping.
+What is the mechanism of action of Emicizumab?
+What is DiseaseEnhancer?
+What is the function of GFRAL?
+What is the role of ZCCHC17?
+What is latex bead phagocytosis?
+Describe CGmapTools
+How is the Regulatory Trait Concordance (RTC) calculated?
+What is filipin staining used for?
+What is the function of the Nup153 protein?
+How can PEGylation improve recombinant drugs?
+Describe GeneCodeq
+What is the mechanism of action of arimoclomol?
+What is the purpose of the Ottawa Ankle Rule?
+What is CIBERSORT used for?
+What is PANDAS disease?
+What is CPX351?
+What is ivosidenib?
+Describe symptoms of the Visual snow syndrome.
+What is the role of the Leucosporidium ice-binding protein
+What is the aim of the METABRIC project?
+What is ferroptosis?
+Briefly describe a deep learning system that is more accurate than human experts at detecting melanoma.
+What is the mechanism of action of durvalumab?
+What is GeneWeaver used for?
+Endolymphatic hydrops is associated with Meniere’s disease. Please provide a summary of endoymphatic hydrops including the symptoms and affected body part.
+What is the mechanism of action of Alpelisib?
+What is eravacycline?
+What is PEGylation?
+Describe the 4D-CHAINS algorithm
+What is an organoid?
+What is known about the gut bacteria and depression.
+What is the mechanism of action of anlotinib?
+Describe Canvas SPW
+What is the mechanism of action of cemiplimab?
+What is CamurWeb?
+Describe SLIC-CAGE
+What is achalasia?
+What is Burning Mouth Syndrome(BMS)?
+What is the role of the Mcm2-Ctf4-Polα axis?
+What is the contribution of ultraconserved elements in Australasian smurf-weevils?
+How does botulism toxin act on the muscle?
+Describe the mechanism of action of apalutamide.
+What is Bayesian haplotyping used for?
+Describe Herpetic Whitlow.
+What is the mechanism of action of Pitolisant?
+What is Chrysophanol?
+What is CardioClassifier?
+What is the role of metalloproteinase-17 (ADAM17) in NK cells?
+What are the CADD scores?
+What is a prolactinoma and where in the body would they be found?
+What is the association of epigallocatechin with the cardiovascular system?
+What is the mechanism of action of tucatinib?
+Describe the mechanism of action of Lurbinectedin.
+What is the mechanism of action of motolimod?
+What is the function of PARP1?
+What is COG112?
+What is the function of Taraxasterol  in rheumatoid arthritis?
+What is the role of CD28 with respect to bacterial superantigen toxins?
+What is the mechanism of the drug CRT0066101?
+What is PhenomeCentral?
+How can super-enhancers be used in disease diagnosis?
+Which proteins are markers of HPV oncogenic activity?
+Describe the bartender algorithm
+Describe CapSim
+What is the mode of action of Tetrocarcin-A?
+What are CRISPR-Cas12a proteins?
+What is the mechanism of action of Solriamfetol?
+What is the difference between the nuclease Cas13a and C2c2
+What is the mechanism of action of cariprazine?
+What is CVT-301?
+What is patisiran?
+What is the mechanism of action of Inclisiran?
+What is opdivo?
+What does Prevnar 13 consist of?
+What are there sex differences in SAMHD1 activity?
+Which enhancers are characterized as latent?
+What is the difference between COG133 and COG112?
+How are gas vesicle proteins used in imaging?
+What are super-enhancers
+What is the mode of action for Tocilizumab?
+What is Quorum Sensing in bacteria?
+What are the phenotypic features of the autosomal dominant, development disease, Noonans syndrome
+What is the dbSUPER database?
+What is YESCARTA?
+What is known about the gene MIR140?
+What is the mode of action of the Tc toxins?
+What are acoustic reported genes used to detect?
+What is a lipin 1 protein doing?
+What is epitranscriptomics?
+What is a SMR based BCI?
+What conditions are associated with mutations in the gene FAAH?
+What is aphasia?
+What is the role of Acyl-Homoserine Lactone  in bacteria?
