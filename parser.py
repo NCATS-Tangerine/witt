@@ -45,9 +45,7 @@ class Parser:
         ]
     
 class Semantic:
-    def __init__(self):
-        pass
-
+    
     @staticmethod
     def lookup (name):
         response = requests.post (
