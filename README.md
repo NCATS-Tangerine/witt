@@ -1,7 +1,7 @@
 # witt
 
 * Uses [SpaCy](https://spacy.io/) to parse a list of questions.
-* Does named entity recognition (NER) with a few tools.
+* Does named entity recognition (NER) with a few tools including [Biolink API](https://api.monarchinitiative.org/api/)
 * Outputs all resulting metadata to YAML in the data subdirectory.
 
 ```
