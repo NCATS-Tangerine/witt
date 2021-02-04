@@ -1,0 +1,814 @@
+bio_api:
+- end: 16
+  start: 12
+  text: role
+  token:
+  - category: []
+    id: CHEBI:50906
+    terms:
+    - role
+- end: 16
+  start: 12
+  text: role
+  token:
+  - category: []
+    id: RO:0000081
+    terms:
+    - role of
+- end: 16
+  start: 12
+  text: role
+  token:
+  - category: []
+    id: BFO:0000023
+    terms:
+    - role
+- end: 16
+  start: 12
+  text: role
+  token:
+  - category:
+    - anatomical entity
+    id: UBERON:2002175
+    terms:
+    - rostral octaval nerve motor nucleus
+- end: 16
+  start: 12
+  text: role
+  token:
+  - category:
+    - anatomical entity
+    id: ZFA:0001698
+    terms:
+    - rostral octaval nerve motor nucleus
+- end: 27
+  start: 20
+  text: thyroid
+  token:
+  - category:
+    - disease
+    id: MONDO:0015074
+    terms:
+    - thyroid tumor
+- end: 27
+  start: 20
+  text: thyroid
+  token:
+  - category:
+    - anatomical entity
+    id: UBERON:0002046
+    terms:
+    - thyroid gland
+- end: 35
+  start: 28
+  text: hormone
+  token:
+  - category: []
+    id: CHEBI:24621
+    terms:
+    - hormone
+- end: 35
+  start: 28
+  text: hormone
+  token:
+  - category: []
+    id: XCO:0000125
+    terms:
+    - hormone
+- end: 35
+  start: 20
+  text: thyroid hormone
+  token:
+  - category: []
+    id: CHEBI:60311
+    terms:
+    - thyroid hormone
+- end: 62
+  start: 55
+  text: insulin
+  token:
+  - category:
+    - molecular entity
+    id: PR:000009054
+    terms:
+    - insulin
+    - insulin gene translation product
+- end: 62
+  start: 55
+  text: insulin
+  token:
+  - category:
+    - molecular entity
+    id: CHEBI:145810
+    terms:
+    - insulin
+- end: 62
+  start: 55
+  text: insulin
+  token:
+  - category: []
+    id: XCO:0000245
+    terms:
+    - insulin
+- end: 62
+  start: 55
+  text: insulin
+  token:
+  - category:
+    - molecular entity
+    id: CHEBI:5931
+    terms:
+    - insulin (human)
+- end: 62
+  start: 55
+  text: insulin
+  token:
+  - category: []
+    id: GO:0016088
+    terms:
+    - obsolete insulin
+- end: 73
+  start: 63
+  text: secretion?
+  token:
+  - category:
+    - biological process
+    id: GO:0046903
+    terms:
+    - secretion
+- end: 73
+  start: 63
+  text: secretion?
+  token:
+  - category:
+    - anatomical entity
+    id: UBERON:0000456
+    terms:
+    - secretion of exocrine gland
+- end: 73
+  start: 55
+  text: insulin secretion?
+  token:
+  - category:
+    - cellular process
+    - biological process
+    id: GO:0030073
+    terms:
+    - insulin secretion
+ent:
+- end_char: 51
+  label: 380
+  start_char: 45
+  text: alpha1
+question: What is the role of thyroid hormone receptor alpha1 in insulin secretion?
+tokens:
+- alpha: true
+  dep: attr
+  lemma: what
+  pos: PRON
+  shape: Xxxx
+  sri: null
+  stop: true
+  tag: WP
+  token: What
+- alpha: true
+  dep: ROOT
+  lemma: be
+  pos: AUX
+  shape: xx
+  sri: null
+  stop: true
+  tag: VBZ
+  token: is
+- alpha: true
+  dep: det
+  lemma: the
+  pos: DET
+  shape: xxx
+  sri: null
+  stop: true
+  tag: DT
+  token: the
+- alpha: true
+  dep: nsubj
+  lemma: role
+  pos: NOUN
+  shape: xxxx
+  sri:
+    full:
+      CHEBI:135101:
+      - pyridrole
+      - pipradol
+      - pipralon
+      - piridrol
+      - pyridrol
+      - pipradrol HCl
+      - pipradrol hydrochloride
+      CHEBI:15368:
+      - acrolein
+      - Acrolein
+      - Propenal
+      - acrylaldehyde
+      - Acrylaldehyde
+      - Acrylic aldehyde
+      CHEBI:19203:
+      - pyrrole
+      - 1H-pyrrole
+      - monopyrrole
+      - Pyrrol
+      - imidole
+      - divinylenimine
+      - divinyleneimine
+      - 1-aza-2,4-cyclopentadiene
+      CHEBI:27561:
+      - Amprolene
+      - Anprolene
+      - ETO
+      - Oxane
+      - oxirane
+      - Oxyfume
+      - Anproline
+      - epoxyethane
+      - Oxidoethane
+      - Aethylenoxid
+      - ethene oxide
+      - Dihydrooxirene
+      - Ethylene oxide
+      - 1,2-Epoxyaethan
+      - 1,2-epoxyethane
+      - Oxacyclopropane
+      - oxyde d'ethylene
+      - Dimethylene oxide
+      CHEBI:33222:
+      - corrole
+      - octadehydrocorrin
+      CHEBI:33290:
+      - food role
+      - foods
+      - foodstuff
+      - foodstuffs
+      - food material
+      - food materials
+      CHEBI:35556:
+      - pyrrole
+      CHEBI:35559:
+      - tetrole
+      - furan
+      - Furan
+      - oxole
+      - furane
+      - divinylene oxide
+      - oxacyclopentadiene
+      - 1,4-epoxy-1,3-butadiene
+      CHEBI:40036:
+      - Amitrole
+      - 3-AT
+      - Aminotriazole
+      - 3-amino-s-triazole
+      - 2-Amino-1,3,4-triazole
+      - 3-Amino-1,2,4-triazole
+      - 1H-1,2,4-triazol-3-amine
+      - 1H-1,2,4-triazol-3-ylamine
+      CHEBI:89760:
+      - Solerole
+      - 4,5-Dihydroxyhexanoate
+      - 5,6-dihydroxyoxepan-2-one
+      - 4,5-Dihydroxyhexanoic acid
+      - 4,5-Dihydroxyhexanoic acid lactone
+      - 4,5-Dihydroxyhexanoic acid-g-lactone
+      - 4,5-Dihydroxyhexanoic acid-gamma-lactone
+      - Dihydro-5-(1-hydroxyethyl)-2(3H)-furanone
+    min: CHEBI:19203
+  stop: false
+  tag: NN
+  token: role
+- alpha: true
+  dep: prep
+  lemma: of
+  pos: ADP
+  shape: xx
+  sri: null
+  stop: true
+  tag: IN
+  token: of
+- alpha: true
+  dep: compound
+  lemma: thyroid
+  pos: NOUN
+  shape: xxxx
+  sri:
+    full:
+      CHEBI:9584:
+      - Thyroid
+      HP:0008249:
+      - Large thyroid
+      MONDO:0004126:
+      - thyroiditis
+      - thyroid gland inflammation
+      - inflammation of thyroid gland
+      MONDO:0005420:
+      - hypothyroid
+      - hypothyroidism
+      - thyroid deficiency
+      - underactive thyroid
+      - thyroid insufficiency
+      MONDO:0006996:
+      - thyroid storm
+      - thyroid crisis
+      - thyrotoxic crisis
+      MONDO:0015074:
+      - THYROID
+      - thyroid tumor
+      - thyroid neoplasm
+      - tumor of thyroid
+      - thyroid neoplasms
+      - neoplasm of thyroid
+      - thyroid gland tumor
+      - tumor of the thyroid
+      - thyroid gland neoplasm
+      - tumor of thyroid gland
+      - neoplasm of the thyroid
+      - neoplasm of thyroid gland
+      - tumor of the thyroid gland
+      - neoplasm of the thyroid gland
+      - thyroid gland neoplasm (disease)
+      UBERON:0001118:
+      - thyroid lobe
+      - thyroid gland lobe
+      - lobus glandulae thyroideae
+      - lobus (glandula thyroidea)
+      - lobuli glandulae thyroideae
+      UBERON:0001132:
+      - parathyroid
+      - parathyroid secreting cell
+      - epithelial body
+      UBERON:0001566:
+      - cricothyroid
+      - cricothyroideus
+      - M. cricothyroideus
+      - musculus cricothyroideus
+      UBERON:0002046:
+      - thyroid
+      - glandula thyroidea
+    min: CHEBI:9584
+  stop: false
+  tag: NN
+  token: thyroid
+- alpha: true
+  dep: compound
+  lemma: hormone
+  pos: NOUN
+  shape: xxxx
+  sri:
+    full:
+      CHEBI:17026:
+      - luteohormone
+      - corpus luteum hormone
+      - Crinone
+      - Agolutin
+      - Akrolutin
+      - Progesteron
+      - progesterone
+      - Progesterone
+      - PROGESTERONE
+      - (S)-Progesterone
+      - Gelbkoerperhormon
+      - 17alpha-progesterone
+      - 4-Pregnene-3,20-dione
+      - pregn-4-ene-3,20-dione
+      - (S)-4-Pregnene-3,20-dione
+      - (S)-Pregn-4-en-3,20-dione
+      - Delta(4)-pregnene-3,20-dione
+      CHEBI:24621:
+      - hormones
+      - endocrine
+      CHEBI:25905:
+      - peptide hormones
+      - polypeptide hormone
+      CHEBI:26013:
+      - ectohormone
+      - feromone
+      - pheromone
+      - pheromones
+      CHEBI:26764:
+      - Steroidhormone
+      - hormone steroide
+      - steroid hormones
+      - hormones steroides
+      - Steroidhormon
+      - hormona esteroide
+      - hormonas esteroideas
+      CHEBI:37845:
+      - growth hormones
+      - GH
+      - Somatotropin
+      - Wachstumshormon
+      CHEBI:37848:
+      - phytohormone
+      - phytohormones
+      - plant hormones
+      - plant growth hormone
+      - plant growth hormones
+      - plant growth factor
+      - plant growth factors
+      CHEBI:50112:
+      - sex hormones
+      - Sexualhormone
+      - hormone sexuelle
+      - Geschlechtshormone
+      - hormones sexuelles
+      - Sexualhormon
+      - Geschlechtshormon
+      CHEBI:71212:
+      - prohormones
+      PR:000013429:
+      - parathormone
+      - PTH
+      - parathyrin
+    min: CHEBI:24621
+  stop: false
+  tag: NN
+  token: hormone
+- alpha: true
+  dep: compound
+  lemma: receptor
+  pos: NOUN
+  shape: xxxx
+  sri:
+    full:
+      CHEBI:131186:
+      - IP3 receptor
+      - inositol trisphosphate receptor antagonist
+      - inositol trisphosphate receptor antagonists
+      - D-myo-inositol 1,4,5-trisphosphate receptor antagonist
+      - D-myo-inositol 1,4,5-trisphosphate receptor antagonists
+      - IP3 antagonist
+      - IP3 antagonists
+      - InsP3R antagonist
+      - InsP3R antagonists
+      CHEBI:18259:
+      - VT2vp1 Receptor
+      - Slt-iiv receptor
+      - Gb4Cer
+      - CTH/Gb4
+      - Gbose4Cer
+      - GbOse4Cer
+      - Globoside I
+      - Gb4 Globoside
+      - Globoside GL-4
+      - Globotetraosyl ceramide
+      - Gb4 Globotetraosyl ceramide
+      - globoside Gb4Cer (d18:1(4E))
+      - (Gal)2 (GalNAc)1 (Glc)1 (Cer)1
+      - GalNAc-1->3-Gal-1->4-Gal-1->4-Glc-Cer
+      - GalNAcbeta1-3-Galalpha1-4Galbeta1-4Glcbeta1-1Cer
+      - N-Acetyl-galactosaminyl-1,3-D-galactosyl-1,4-D-galactosyl-1,4-D-glucosylceramide
+      - beta-D-GalNAc-(1->3)-alpha-D-Gal-(1->4)-beta-D-Gal-(1->4)-beta-D-Glc-(1<->1')-Cer
+      - N-Acetyl-D-galactosaminyl-1,3-D-galactosyl-1,4-D-galactosyl-1,4-D-glucosylceramide
+      - beta-D-GalpNAc-(1->3)-alpha-D-Galp-(1->4)-beta-D-Galp-(1->4)-beta-D-Glcp-(1<->1')-Cer
+      - N-acetyl-D-galactosaminyl-(1->3)-D-galactosyl-(1->4)-D-galactosyl-(1->4)-D-glucosylceramides
+      - N-[(2S,3R,4E)-1-{[2-acetamido-2-deoxy-beta-D-galactopyranosyl-(1->3)-alpha-D-galactopyranosyl-(1->4)-beta-D-galactopyranosyl-(1->4)-beta-D-glucopyranosyl]oxy}-3-hydroxyoctadec-4-en-2-yl]alkanamide
+      GO:0004930:
+      - SREB receptor
+      - EBV-induced receptor
+      - RDC1 receptor activity
+      - G protein linked receptor activity
+      - G-protein linked receptor activity
+      - G protein coupled receptor activity
+      - G-protein coupled receptor activity
+      - receptor activity, G-protein coupled
+      - Mas proto-oncogene receptor activity
+      - orphan G protein coupled receptor activity
+      - orphan G-protein coupled receptor activity
+      - Epstein-Barr Virus-induced receptor activity
+      - G-protein coupled receptor activity, unknown ligand
+      - super conserved receptor expressed in brain receptor activity
+      - GPCR activity
+      - orphan GPCR activity
+      - ligand-dependent GPCR activity
+      GO:0005102:
+      - receptor ligand
+      - receptor binding
+      - receptor-associated protein activity
+      GO:0038023:
+      - receptor activity
+      - receptor activity involved in signal transduction
+      PR:000001083:
+      - LFA-3 receptor
+      - rosette receptor
+      - erythrocyte receptor
+      - CD2
+      - SRBC
+      - LFA-2
+      - ly-37
+      - lymphocyte antigen 37
+      - T-cell surface antigen CD2
+      - T-cell surface glycoprotein CD2
+      - T-cell surface antigen T11/Leu-5
+      PR:000001199:
+      - MCP-1 receptor
+      - JE/FIC receptor
+      - chemokine receptor CCR2
+      - monocyte chemoattractant protein 1 receptor
+      - CCR2
+      - CCR-2
+      - CD192
+      - CMKBR2
+      - MCP-1-R
+      - CC-CKR-2
+      - C-C CKR-2
+      PR:000001254:
+      - LD78 receptor
+      - chemokine receptor CCR1
+      - macrophage inflammatory protein 1-alpha receptor
+      - CCR1
+      - CCR-1
+      - CD191
+      - HM145
+      - CMKR1
+      - CMKBR1
+      - SCYAR1
+      - CC-CKR-1
+      - RANTES-R
+      - C-C CKR-1
+      - MIP-1alpha-R
+      PR:000001963:
+      - CD27L receptor
+      - tumor necrosis factor receptor superfamily member 7
+      - T14
+      - CD27
+      - TNFRSF7
+      - T-cell activation antigen CD27
+      PR:000030035:
+      - 7TM receptor
+      - seven-transmembrane receptor
+      - fam:GPCR
+    min: CHEBI:131186
+  stop: false
+  tag: NN
+  token: receptor
+- alpha: false
+  dep: pobj
+  lemma: alpha1
+  pos: NOUN
+  shape: xxxxd
+  sri:
+    full:
+      CHEBI:135915:
+      - Thymosin alpha1
+      - zadaxin
+      CHEBI:53651:
+      - alpha1,3Gal
+      - Galalpha1,3Gal
+      - Galalpha1-3Gal
+      - Gal-alpha1,3-Gal
+      - Gal(alpha1-3)Gal
+      - Bdi
+      - (Gal)2
+      - alpha-Gal
+      - dialphaGal
+      - Bdi-epitope
+      - Galalpha,3Gal
+      - Gal-alpha(1,3)Gal
+      - alpha-D-Gal-(1->3)-D-Gal
+      - alpha-D-Galp-(1->3)-D-Galp
+      - galactose-alpha-1,3-galactose
+      - galactose-alpha-(1,3)-galactose
+      - alpha-D-galactosyl-(1->3)-D-galactose
+      - human blood group type B linear epitope
+      - 3-O-alpha-D-Galactopyranosyl-D-galactose
+      - alpha-D-galactopyranosyl-(1->3)-D-galactose
+      - 3-O-alpha-D-galactopyranosyl-D-galactopyranose
+      CHEBI:546808:
+      - Galalpha1-4Gal
+      - Galalpha1,4-Gal
+      - alpha-Gal-(1->4)-Gal
+      - alpha-(1->4)-galactobiose
+      - alpha-D-Galp-(1->4)-D-Galp
+      - alpha-D-galactosyl-(1->4)-D-galactose
+      - 4-O-alpha-D-galactopyranosyl-D-galactopyranose
+      - alpha-D-galactopyranosyl-(1->4)-D-galactopyranose
+      CHEBI:59430:
+      - Galalpha1-3Man
+      - Gal(alpha1-3)Man
+      - 3-O-alpha-D-galactopyranosyl-beta-D-mannopyranose
+      - alpha-D-galactopyranosyl-(1->3)-beta-D-mannopyranose
+      CHEBI:59432:
+      - Galalpha1,2Gal
+      - Gal-alpha1,2-Gal
+      - (Gal)2
+      - alpha-Gal-(1->2)-Gal
+      - alpha-D-Gal-(1->2)-D-Gal
+      - alpha-D-Galp-(1->2)-D-Galp
+      - alpha-D-galactosyl-(1->2)-D-galactose
+      - 2-O-alpha-D-galactopyranosyl-D-galactopyranose
+      - alpha-D-galactopyranosyl-(1->2)-D-galactopyranose
+      CHEBI:59488:
+      - Hepalpha1-3Hep
+      - Hep-Hep
+      - L-alpha-D-Hep-(1->3)-L-alpha-D-Hep
+      - L-glycero-alpha-D-manno-heptosyl-(1->3)-L-glycero-alpha-D-manno-heptose
+      - 3-O-L-glycero-alpha-D-manno-heptopyranosyl-L-glycero-alpha-D-manno-heptopyranose
+      - L-glycero-alpha-D-manno-heptopyranosyl-(1->3)-L-glycero-alpha-D-manno-heptopyranose
+      CHEBI:59578:
+      - Galalpha1-6Gal
+      - alpha-Gal-(1-6)-Gal
+      - alpha-D-Gal-(1->6)-D-Gal
+      - alpha-D-galactosyl-(1->6)-D-galactose
+      - 6-O-alpha-D-galactopyranosyl-D-galactopyranose
+      - alpha-D-galactopyranosyl-(1->6)-D-galactopyranose
+      CHEBI:59641:
+      - Rhaalpha1-2Rha
+      - alpha-L-Rha-(1->2)-L-Rha
+      - 2-O-(alpha-L-rhamnopyranosyl)-L-rhamnopyranose
+      - alpha-L-rhamnopyranosyl-(1->2)-L-rhamnopyranose
+      - 6-deoxy-2-O-(6-deoxy-alpha-L-mannopyranosyl)-L-mannopyranose
+      - 6-deoxy-alpha-L-mannopyranosyl-(1->2)-6-deoxy-L-mannopyranose
+      CHEBI:62857:
+      - Fucalpha1-2Gal
+      - (Gal)1 (LFuc)1
+      - alpha-L-Fuc-(1->2)-D-Gal
+      - alpha-L-fucosyl-(1->2)-D-galactose
+      - 2-O-alpha-L-fucopyranosyl-D-galactose
+      - alpha-L-fucopyranosyl-(1->2)-D-galactopyranose
+      - 2-O-(6-deoxy-alpha-L-galactopyranosyl)-D-galactopyranose
+      CHEBI:67149:
+      - Glcalpha1-3'DG
+      - alpha-D-Glc-(1->3')-DG
+      - 1,2-diacyl-3-(alpha-D-glucosyl)glycerol
+      - 3-(alpha-D-glucosyl)-1,2-diacylglycerol
+      - alpha-D-glucosyl-(1->3')-1,2-diacylglycerol
+      - 3-(alpha-D-glucopyranosyloxy)propane-1,2-diyl dialkanoate
+      - 3-(alpha-D-glucopyranosyloxy)propane-1,2-diyl dialkanoate
+    min: CHEBI:53651
+  stop: false
+  tag: NN
+  token: alpha1
+- alpha: true
+  dep: prep
+  lemma: in
+  pos: ADP
+  shape: xx
+  sri: null
+  stop: true
+  tag: IN
+  token: in
+- alpha: true
+  dep: compound
+  lemma: insulin
+  pos: NOUN
+  shape: xxxx
+  sri:
+    full:
+      CHEBI:50864:
+      - insulin sensitisers
+      - insulin sensitizers
+      - insulin-sensitising drug
+      - insulin-sensitizing agent
+      - glitazonas
+      - glitazones
+      - glitazone drug
+      - PPARgamma agonist
+      - tiazolidinedionas
+      - PPAR-gamma agonist
+      - PPARgamma agonists
+      - thiazolidinediones
+      - PPAR-gamma agonists
+      - proliferator activated receptor gamma agonist
+      - proliferator activated receptor gamma agonists
+      - peroxisome proliferator-activated receptor gamma agonist
+      - peroxisome proliferator-activated receptor gamma agonists
+      CHEBI:5931:
+      - Insulin
+      - human insulin
+      - Insulin recombinant
+      - insulin (recombinant)
+      CHEBI:5932:
+      - Insulin dithiol
+      CHEBI:90415:
+      - insulin secretagogues
+      HP:0012197:
+      - Pancreatic insulinoma
+      MONDO:0002177:
+      - hyperinsulinism
+      - hyperinsulinemia
+      MONDO:0011717:
+      - GDH hyperinsulinism
+      - GLUD1 hyperinsulinism
+      - hyperinsulinism-hyperammonemia syndrome
+      - hyperinsulinism/hyperammonemia syndrome
+      - hyperinsulinism hyperammonemia syndrome
+      - hyperinsulinemic hypoglycemia familial 6
+      - glutamate dehydrogenase 1 hyperinsulinism
+      - hyperinsulinemic hypoglycemia, familial, 6
+      - hyperinsulinemic hypoglycemia, familial, type 6
+      - hyperinsulinemic hypoglycemia, familial, 6; HHF6
+      - HHF6
+      - hi/HA syndrome
+      - HA/hi syndrome
+      MONDO:0012396:
+      - MCT1 hyperinsulinism
+      - hyperinsulinemic hypoglycemia familial 7
+      - hyperinsulinism due to SLC16A1 deficiency
+      - hyperinsulinemic hypoglycemia, familial, 7
+      - monocarboxylate transporter 1 hyperinsulinism
+      - exercise-induced hyperinsulinemic hypoglycemia
+      - exercise induced hyperinsulinemic hypoglycemia
+      - hyperinsulinemic hypoglycemia exercise-induced
+      - hyperinsulinemic hypoglycemia, familial, type 7
+      - hyperinsulinemic hypoglycemia, exercise-induced
+      - hyperinsulinemic hypoglycemia, familial, 7; HHF7
+      - hyperinsulinism due to monocarboxylate transporter 1 deficiency
+      - EIHI
+      - HHF7
+      MONDO:0014535:
+      - hyperproinsulinemia
+      MONDO:0024677:
+      - insulinoma
+      - Insulinomas
+      - pancreatic insulinoma
+      - insulin-producing tumor of islet cells
+      - insulinoma tumor suppressor GENE locus
+      - insuloma
+      - Insulomas
+      - beta cell tumor
+      - beta-cell tumor
+      - beta-cell tumors
+      - tumor, beta-cell
+      - beta-cell adenoma
+      - tumors, beta-cell
+      - islet cell adenoma
+      - adenoma, beta cell
+      - adenoma, beta-cell
+      - beta-cell adenomas
+      - adenomas, beta-cell
+    min: CHEBI:5931
+  stop: false
+  tag: NN
+  token: insulin
+- alpha: true
+  dep: pobj
+  lemma: secretion
+  pos: NOUN
+  shape: xxxx
+  sri:
+    full:
+      GO:0001820:
+      - 5-HT secretion
+      - 5-hydroxytryptamine secretion
+      - serotonin release
+      GO:0023061:
+      - signal secretion
+      GO:0032940:
+      - cellular secretion
+      GO:0032941:
+      - tissue secretion
+      - expulsion of gland contents
+      UBERON:0000456:
+      - secretion
+      - bodily secretion
+      - external secretion
+      - exocrine gland secretion
+      - exocrine gland fluid/secretion
+      - exocrine gland fluid or secretion
+      - secreted substance
+      - exocrine gland fluid
+      UBERON:0001827:
+      - lacrimal secretion
+      - lacrimal gland secretion
+      - tear
+      - tears
+      - tear fluid
+      - lacrimal fluid
+      UBERON:0001971:
+      - stomach secretion
+      - succus gastricus
+      UBERON:0004794:
+      - gullet secretion
+      - secretion of gullet
+      - esophageal secretion
+      - oesophagus secretion
+      - secretion of esophagus
+      - secretion of oesophagus
+      UBERON:0022293:
+      - genital secretion
+      - reproductive system secretion
+      - reproductive system fluid/secretion
+      - genital fluid
+      - reproductive system fluid
+      UBERON:0036243:
+      - vaginal secretion
+      - vaginal discharge
+    min: UBERON:0000456
+  stop: false
+  tag: NN
+  token: secretion
+- alpha: false
+  dep: punct
+  lemma: '?'
+  pos: PUNCT
+  shape: '?'
+  sri: null
+  stop: false
+  tag: .
+  token: '?'
