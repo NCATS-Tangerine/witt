@@ -2,12 +2,26 @@ import json
 import os
 import spacy
 import requests
+import yaml
+import sys
+from Levenshtein import distance 
+from output import OutputStrategy, TableOutputStrategy, YAMLOutputStrategy
 
 class Parser:
     def __init__(self):
         self.nlp = spacy.load ("en_core_web_sm")
 
     def parse (self, text):
+        """
+        1. Parse text into tokens with spacy.
+        2. Include Translator appropriate identifiers via a lookup of noun tokens.
+        This is simplistic and nowhere near as sophisticated as proper NER.
+        Still, it picks up somme useful info.
+        3. Parse entities with spacy. Docs suggest this wil require a purpose built model to 
+        get reasonable results for our domain.
+        4. Include the Biolink API NER results.
+        """
+        
         doc = self.nlp (text)
         tokens = [
             {
@@ -19,14 +33,14 @@ class Parser:
                 "shape" : token.shape_,
                 "alpha" : token.is_alpha,
                 "stop"  : token.is_stop,
-                "sri_lu" : Semantic.lookup (token.text) if token.pos_ == 'NOUN' else None
+                "sri"   : Semantic.lookup (token.text) if token.pos_ == 'NOUN' else None
             } for token in doc ]
         entities = [
             {
                 "text"       : ent.text,
                 "start_char" : ent.start_char,
                 "end_char"   : ent.end_char,
-                "label"  : ent.label
+                "label"      : ent.label
             } for ent in doc.ents ]
         return {
             "text"     : text,
@@ -49,9 +63,17 @@ class Semantic:
     @staticmethod
     def lookup (name):
         response = requests.post (
-            url=f"http://robokop.renci.org:2433/lookup?string={name}&limit=10").json ()
-        return next(iter(response)) if len(response) > 0 else None
-
+            url=f"http://robokop.renci.org:2433/lookup?string={name}&limit=10")
+        if response.status_code == 200:
+            response = response.json ()
+        else:
+            print (f"ERROR: {response.status_code} {response.text}")
+            response = {}
+        return {
+            "full" : response,
+            "min"  : next(iter(response)) if len(response) > 0 else None
+        }
+    
     @staticmethod
     def biolink_lookup (sentence):
         response = requests.post (
@@ -67,95 +89,23 @@ class Semantic:
     @staticmethod
     def get_biolink ():
         text = requests.get ("https://raw.githubusercontent.com/biolink/biolink-model/master/biolink-model.yaml").text
-        return yaml.load 
+        return yaml.load (text)
 
-class OutputStrategy:
-    def is_written (self, index):
-        return False
-    def write (self, index, sentence):
-        print (f"\n>> {sentence['text']}")
-        print ("SpaCy+SRI lookup:")
-        fmt_str = "  {:<15} {:<15} {:<5} {:<5} {:<10} {:<15} {:<5} {:<5} {:<15}"
-        print (fmt_str.format ("TEXT", "LEMMA", "POS", "TAG", "DEP", "SHAPE", "ALPHA", "STOP", "ID"))
-        print ("  =======================================================================================")
-        for token in sentence['parse']['tok']:
-            if token['token'] == '\n':
-                continue
-            print (fmt_str.format (
-                token['token'], token['lemma'], token['pos'], token['tag'], token['dep'],
-                token['shape'], token['alpha'], token['stop'],
-            token['sri_lu'] if token['sri_lu'] is not None else "" ))
-
-        if len(sentence['parse']['ent']) > 0:
-            ent_fmt_str = "  {:<40} {:<5} {:<5} {:<10}"
-            print ("spaCy NER:")
-            print (ent_fmt_str.format ("TEXT", "START_CH", "END_CH", "LABEL"))
-            print ("  ===========================================================")
-            for ent in sentence['parse']['ent']:
-                print (ent_fmt_str.format (
-                    ent['text'], ent['start_char'],
-                    ent['end_char'], ent['label']))
-
-        ent_fmt_str = "  {:<30} {:<30} {:<30} {:<5} {:<5}"
-        print ("Biolink NER:")
-        print (ent_fmt_str.format ("TEXT", "IDS", "CATEGORY", "START", "END"))
-        print ("  =======================================================================================================")
-        for bl_lookup in sentence['bl_parse']['spans']:
-            token = bl_lookup['token'][0]
-            categories = token['category']
-            category = categories[0] if len(categories) > 0 else ""
-            print (ent_fmt_str.format (
-                bl_lookup['text'], token['id'],
-                category,
-                bl_lookup['start'], bl_lookup['end']))
-
-class TableOutputStrategy:
+    @staticmethod
+    def get_biolink_relations ():
+        model = Semantic.get_biolink ()
+        for k, v in model.get ("types", {}).items ():
+            print (v)
+            if v.get('is_a',None) == 'related to':
+                print (f"----> {v}")
+        return [
+            k for k, v in model.get ("slots", {}).items ()
+            if v.get('is_a',None) == 'related to'
+        ]
     
-    def is_written (self, index):
-        return os.path.exists (self.form_path (f"{index}-spacy-sri.csv"))
-    def __init__ (self, data_dir="data"):
-        self.data_dir = data_dir
-    def form_path (self, name):
-        return os.path.join (self.data_dir, name)
-    def write (self, index, sentence):
-        print (f"\n>> {sentence['text']}")
-        print (f"   ...writing tables.")
-
-        with open (self.form_path(f"{index}-spacy-sri.csv"), "w") as out:
-            out.write (",".join ([ "TEXT", "LEMMA", "POS", "TAG", "DEP", "SHAPE", "ALPHA", "STOP", "ID" ]))
-            out.write ("\n")
-            for token in sentence['parse']['tok']:
-                if token['token'] == '\n':
-                    continue
-                out.write (",".join ([
-                    token['token'], token['lemma'], token['pos'], token['tag'], token['dep'],
-                    token['shape'], str(token['alpha']), str(token['stop']),
-                    token['sri_lu'] if token['sri_lu'] is not None else "" ]))
-                out.write ("\n")
-        if len(sentence['parse']['ent']) > 0:
-            with open (self.form_path(f"{index}-spacy-entity.csv"), "w") as ent_out:
-                ent_out.write (",".join ([ "TEXT", "START_CH", "END_CH", "LABEL" ]))
-                ent_out.write ("\n")
-                for ent in sentence['parse']['ent']:
-                    ent_out.write (",".join ([
-                        ent['text'], str(ent['start_char']),
-                        str(ent['end_char']), str(ent['label']) ]))
-                    ent_out.write ("\n")
-        with open (self.form_path(f"{index}-biolink-api-entity.csv"), "w") as bio_out:
-            bio_out.write (",".join ([ "TEXT", "IDS", "CATEGORY", "START", "END" ]))
-            bio_out.write ("\n")
-            for bl_lookup in sentence['bl_parse']['spans']:
-                token = bl_lookup['token'][0]
-                categories = token['category']
-                category = categories[0] if len(categories) > 0 else ""
-                bio_out.write (",".join ([
-                    bl_lookup['text'], token['id'],
-                    category,
-                    str(bl_lookup['start']), str(bl_lookup['end']) ]))
-                bio_out.write ("\n")
 def main ():
     parser = Parser ()
-    output = TableOutputStrategy ()
+    output = YAMLOutputStrategy ()
     with open ("questions.txt", "r") as stream:
         sentences = [ s.strip () for s in stream.readlines () ]
         for index, text in enumerate (sentences):
@@ -165,4 +115,35 @@ def main ():
 
 if __name__ == '__main__':
     main ()
+    
+
+
+
+
+
+
+
+    
+def broken ():
+
+    """ Get Biolink Model associations and poke around in the sentence looking for these. """
+    relations = Semantic.get_biolink_relations ()
+    print ("\n".join (relations))
+    with open ("questions.txt", "r") as stream:
+        sentences = [ s.strip ().split () for s in stream.readlines () ]
+        for s in sentences:            
+            blocks = []  # this will be for the consecutive subwords
+            for block_size in range(1, len(s)):
+                for i in range(len(s) - block_size + 1):
+                    block = " ".join(s[i:(i + block_size)])
+                    blocks.append(block)
+            for block in blocks:
+                for r in relations:
+                    phrase = " ".join(block)
+                    if len(phrase) > 4 and distance (phrase, r) < 4:
+                        print (f"------> {block}")
+
+            #print (blocks)
+            
+    sys.exit (0)
     
